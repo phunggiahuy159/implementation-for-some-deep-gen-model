@@ -1,1 +1,1 @@
-**[Diffusion](https://github.com/Animadversio/DiffusionFromScratch)** 
+Diffusion come from: https://github.com/Animadversio/DiffusionFromScratch
